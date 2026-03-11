@@ -22,6 +22,7 @@ public class WordClass {
         //Gere tres numeros aleatorios
         Random randomGenerator = new Random();
 
+        //Busca o numero a partir das variaveis de leitura
         int rand1 = randomGenerator.nextInt(oneLength);
         int rand2 = randomGenerator.nextInt(twoLength);
         int rand3 = randomGenerator.nextInt(threeLength);
@@ -29,5 +30,4 @@ public class WordClass {
         String phrase = wordListOne[rand1] + " " + wordListTwo[rand2] + " " + wordListThree[rand3];
         System.out.println("Precisamos de " + phrase);
     }
-
 }
