@@ -72,7 +72,4 @@ public class Saidas {
             x = x + 1;
         }
 
-        Questão 5 :
-        Ache a saida :
-
  */
