@@ -4,7 +4,6 @@ public class Saidas {
     public static void main(String[] args) {
 
         // Ache a Saida : 0 2 1 4 3 6 4 8
-
         int x = 0;
         int y = 0;
 
