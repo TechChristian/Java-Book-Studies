@@ -20,9 +20,11 @@ class Episode{
     void play(){
         System.out.println("Starting the series : " + seriesName);
     }
+
     void skipInto(){
         System.out.println("Skipping into...");
     }
+
     void skipToNext(){
         episodeNumber = episodeNumber + 1;
         System.out.println("Loading next episode... " + episodeNumber );

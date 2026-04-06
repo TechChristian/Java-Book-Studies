@@ -1,4 +1,4 @@
-package studies.objetosOO;
+package studies.objetosOO.exercicios;
 
 public class MovieTestDrive {
     public static void main(String[] args){

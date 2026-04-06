@@ -1,4 +1,4 @@
-package studies.objetosOO.exercicios;
+package studies.objetosOO;
 
 class StreamingSong {
     String title;
