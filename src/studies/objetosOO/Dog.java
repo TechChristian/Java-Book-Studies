@@ -6,7 +6,7 @@ public class Dog {
     public static void main(String[] args){
         // -> cria um objeto Dog e acessa.
         Dog dog1 = new Dog();
-        dog1.bark();
+        dog1.bark(); // -> valor padrao caso a variavel nao for inicializada
         dog1.name = "Bart";
 
         // -> cria um array Dog para 3 posicoes.
