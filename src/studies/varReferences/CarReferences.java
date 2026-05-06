@@ -1,4 +1,4 @@
-package studies.objetosOO;
+package studies.varReferences;
 
 public class CarReferences {
     String model;

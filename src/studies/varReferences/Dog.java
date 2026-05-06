@@ -1,4 +1,4 @@
-package studies.objetosOO;
+package studies.varReferences;
 
 public class Dog {
     String name;
