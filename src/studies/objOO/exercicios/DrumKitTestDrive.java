@@ -1,4 +1,4 @@
-package studies.objetosOO.exercicios;
+package studies.objOO.exercicios;
 
 public class DrumKitTestDrive {
     public static void main(String[] args){
